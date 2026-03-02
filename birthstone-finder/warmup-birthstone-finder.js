@@ -21,6 +21,9 @@ const birthstones = {
   November: "Topaz or Citrine",
   December: "Tanzanite, Zircon, or Turquoise",
 };
+//console.log(process.argv);
+
+
 let month = process.argv[2];
 
 console.log(month);
